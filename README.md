@@ -1,6 +1,5 @@
 ## This project
 <div>
- <h1>Layout clon of netflix whit react and pure css</h1>
 
 ### A little view of the page!
  <img src="Screens/1.png"/>
